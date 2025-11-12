@@ -22,8 +22,8 @@ Hopx SDKs let you create, run, and manage sandboxes programmatically — with ju
 
 | Language | Package | Docs |
 |-----------|----------|------|
-| 🐍 Python | `pip install hopx` | [→ Python Docs](https://docs.hopx.ai/python) |
-| 🟦 JavaScript / TypeScript | `npm install hopx` | [→ JS Docs](https://docs.hopx.ai/js) |
+| 🐍 Python | `pip install hopx-ai` | [→ Python Docs](https://pypi.org/project/hopx-ai/) |
+| 🟦 JavaScript / TypeScript | `npm install hopx-ai/sdk` | [→ JS Docs](https://www.npmjs.com/package/@hopx-ai/sdk) |
 
 ---
 
