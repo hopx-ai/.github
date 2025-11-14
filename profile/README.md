@@ -44,7 +44,7 @@ import { Sandbox } from "hopx-ai";
 const sandbox = await Sandbox.create({ template: "node:20" });
 const result = await sandbox.run(`console.log("Hello from Hopx!")`);
 console.log(result.output);
-
+```
 
 ## 🔒 Why Hopx
 
