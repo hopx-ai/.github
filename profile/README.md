@@ -1,18 +1,18 @@
-# 🌩️ Hopx — The Cloud for AI Agents  
+# Hopx — The cloud for AI Agents  
 
 **Hopx** provides ultra-fast, fully isolated **Linux microVMs** for AI agents, developers, and autonomous systems.  
 Spin up secure sandboxes in milliseconds. Run untrusted code safely, at any scale.  
 
-> ⚡ The new Cloud 2.0 — built for the agentic era.
+> The new Cloud 2.0 — built for the agentic era.
 
 ---
 
 ## 🚀 What You Can Build with Hopx
 
-- 🧠 **AI Agents** that execute real code, securely and continuously  
-- 💬 **Multi-Agent Systems** where each agent runs in its own isolated VM  
-- 🧩 **Workflows & Backends** that scale instantly, without containers or DevOps overhead  
-- 💻 **Ephemeral Environments** for testing, automation, or code execution  
+- **AI Agents** that execute real code, securely and continuously  
+- **Multi-Agent Systems** where each agent runs in its own isolated VM  
+- **Workflows & Backends** that scale instantly, without containers or DevOps overhead  
+- **Ephemeral Environments** for testing, automation, or code execution  
 
 ---
 
@@ -22,8 +22,8 @@ Hopx SDKs let you create, run, and manage sandboxes programmatically — with ju
 
 | Language | Package | Docs |
 |-----------|----------|------|
-| 🐍 Python | `pip install hopx-ai` | [→ Python Docs](https://pypi.org/project/hopx-ai/) |
-| 🟦 JavaScript / TypeScript | `npm install hopx-ai/sdk` | [→ JS Docs](https://www.npmjs.com/package/@hopx-ai/sdk) |
+| Python | `pip install hopx-ai` | [→ Python Docs](https://pypi.org/project/hopx-ai/) |
+| JavaScript / TypeScript | `npm install hopx-ai/sdk` | [→ JS Docs](https://www.npmjs.com/package/@hopx-ai/sdk) |
 
 ---
 
@@ -58,13 +58,13 @@ console.log(result.output);
 
 ## 🌍 Links
 
-- 🧭 [Website](https://hopx.ai)  
-- 📚 [Documentation](https://docs.hopx.dev)  
-- 🧑‍💻 [Twitter / X](https://x.com/bunnyshell_eaas)  
+- [Website](https://hopx.ai)  
+- [Documentation](https://docs.hopx.dev)  
+- [Twitter / X](https://x.com/bunnyshell_eaas)  
 
 ---
 
 Hopx is building the **runtime layer for the next cloud** — a cloud where *agents*, not humans, deploy code.  
 Help us shape the future of AI infrastructure.
 
-> 🧠 Try it now — [Get $200 free credits →](https://hopx.ai)
+> Try it now — [Get $200 free credits →](https://hopx.ai)
